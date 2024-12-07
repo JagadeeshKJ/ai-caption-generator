@@ -62,7 +62,7 @@ const App = () => {
       <Container maxW="3xl" centerContent>
         <Header />
         <TextInput extractKeywords={extractKeywords} />
-        <Footer />
+{/*         <Footer /> */}
       </Container>
       <KeywordsModal
         keywords={keywords}
