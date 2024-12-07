@@ -58,6 +58,7 @@ const App = () => {
       color="white"
       height="100vh"
       paddingTop={130}
+      paddingBottom={20}
     >
       <Container maxW="3xl" centerContent>
         <Header />
